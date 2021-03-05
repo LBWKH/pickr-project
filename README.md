@@ -1,3 +1,6 @@
+![alt text](https://github.com/LBWKH/pickr-project/blob/master/logo.png)
+
+
 # PICKR
 
 _PICKR_ is the second project built in IronHack's WebDevelopment program.
