@@ -1,5 +1,5 @@
 
-<img alt="PCKR Logo" src="https://github.com/LBWKH/pickr-project/blob/master/src/images/logoAndSlogan.png" width="400px"/>
+<img alt="PCKR Logo" src="https://github.com/LBWKH/pickr-project/blob/master/src/images/logoAndSlogan.png" width="600px"/>
 
 _PICKR_ is the second project built in IronHack's WebDevelopment program.
 
