@@ -1,4 +1,4 @@
-![alt text](https://github.com/LBWKH/pickr-project/blob/master/logo.png)
+![alt text](https://github.com/LBWKH/pickr-project/blob/master/src/images/logo.png)
 
 
 # PICKR
